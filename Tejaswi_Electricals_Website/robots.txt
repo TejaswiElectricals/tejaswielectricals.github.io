@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tejaswielectricals.github.io/sitemap.xml
